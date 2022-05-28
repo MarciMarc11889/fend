@@ -1,6 +1,11 @@
 var path = require('path')
 const express = require('express')
 const mockAPIResponse = require('./mockAPI.js')
+const dotenv = require('dotenv');
+dotenv.config();
+
+// You could call it aylienapi, or anything else
+var application_key = process.env.API_KEY
 
 const app = express()
 

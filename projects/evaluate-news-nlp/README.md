@@ -20,20 +20,20 @@ process and analyze large amounts of natural language data.
 
 
 At first split the terminal and run 
-'''
+```
 npm run build-dev
-'''
+```
 
 in the first terminal. Then run
-'''
+```
 npm run build-prod
-'''
+```
 in the second terminal to set up the dist folder.
 
 After that type
-'''
+```
 npm start
-'''
+```
 into the second terminal to start the prod server.
 
 ## Dependencies

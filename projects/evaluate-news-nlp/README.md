@@ -38,6 +38,9 @@ into the second terminal to start the prod server.
 
 ## Dependencies
 
+Here are the needed dependencies and versions:
+
+```
 "dependencies": {
 "dotenv": "^8.2.0",
 "express": "^4.17.1",
@@ -67,3 +70,4 @@ into the second terminal to start the prod server.
 "webpack-dev-server": "^3.11.2",
 "workbox-webpack-plugin": "^6.1.5"
 }
+```
